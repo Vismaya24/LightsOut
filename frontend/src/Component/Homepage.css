@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+.background1{
+   
+   margin-left: -500px;
+   margin-top: 80px;
+}
+.background2{
+   background-color: #0d131f;
+   
+}
+.image1{
+   border-radius: 5px 5px 5px 5px;   
+}
+.homefont{
+   color: #99aec7;
+   font-size: 50px;
+   font-family: Julius Sans One;
+   justify-content: left;
+}
+.footerbox{
+   height: 200px;
+   width: 1519px;
+   color: #ffffff75;
+   font-family: 'Quicksand';
+   font-size: 25px;
+   /* border-radius: 45px 45px 0px 0px; */
+   background-color: #0d1015;
+   /* box-shadow: 0px 0px 10px 1px white; */
+}
+.imgbutton{
+   /* background-color: rgba(0, 0, 0, 0.249); */
+   background: none;
+   border: 3px solid rgba(255, 255, 255, 0.684);
+   border-radius: 50px 50px 50px 50px;
+   height: 60px;
+   width: 60px;
+   transition: transform .5s ease;
+}
+.imgbutton:hover{
+   transform: scale(1.05);
+}
+.header{
+   font-size: 30px;
+   font-family: "Ubuntu Condensed";
+   color: #8caff4;
+   text-align: left;
+   margin-left: 160px;
+}
+.headthick{
+   margin-left: 160px;
+   height: 6px;
+   border-radius: 4px;
+   margin-top: 5px;
+}
+.in-theaters{
+
+   height: 500px;
+   width: 290px;
+   border-radius: 5px 5px 5px 5px;
+   background: rgba(0, 0, 0, 0.196);
+}
+.homefont{
+   color: white;
+   font-size: 18px;
+   margin-top: 10px;
+   font-family: 'Ubuntu Condensed';
+}
+.home-button{
+   background:none;
+   border: 1px solid white;
+   color: white;
+   font-family: 'Ubuntu Condensed';
+   width: 200px;
+   font-size: 16px;
+   height: 35px;
+   border-radius: 10px 10px 10px 10px;
+   margin-top: 10px;
+}
+.hover{
+   margin-top: 10px;
+   transition: transform .5s ease;
+}
+.hover:hover{
+   transform: scale(1.15);
+}

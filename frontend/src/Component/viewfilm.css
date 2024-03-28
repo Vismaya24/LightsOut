@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gudea&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Phudu:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1:wght@200&display=swap');
+.film-container {
+	display: flex;
+	flex-wrap: wrap;
+	width: 90vw;
+	justify-content: space-evenly;
+	margin-left: 70px;
+}
+.background{
+	background-color: #0d131f;
+	
+ }
+ .view-box{
+   height: 550px;
+   width: 290px;
+   border-radius: 5px 5px 5px 5px;
+   background: rgba(0, 0, 0, 0.519);
+   /* box-shadow: 0px 1px 4px 2px rgba(0, 0, 0, 0.647); */
+   border-radius: 15px 15px 15px 15px;
+ }
+ .view-img{
+	border-radius: 15px 15px 0px 0px;
+ }
+ .view-text{
+	font-size: 35px;
+   font-family: "PT Sans Narrow";
+   color: #8caff4;
+   text-align: left;
+   margin-left: 120px;
+ }
+ .view-text2{
+	font-size: 20px;
+   font-family: "PT Sans Narrow";
+   color: #8caff46f;
+   text-align: left;
+   margin-left: 120px;
+ }
+ .text1{
+	color: #ffffffb5;
+	font-family: "Bebas Neue";
+	font-size: 25px;
+	margin-top: 10px;
+ }.text2{
+	color: rgba(255, 255, 255, 0.468);
+	font-family: "Gudea";
+	font-size: 16px;
+	text-align: left;
+ }
+ .leo1{
+	font-size: 90px;
+	font-family: 'Phudu';
+	color: white;
+	text-align: left;
+	margin-left: 200px;
+	
+ }
+ .watch-trailer{
+	width: 200px;
+	height: 45px;
+	background: none;
+	/* border-color: white; */
+	border: 3px solid white;
+	margin-left: -927px;
+	
+	box-shadow: 0px 0px 5px 2px rgba(255, 255, 255, 0.647);
+ }
+ .watch-text{
+ font-family: 'Sen';
+ color: white;
+ font-size: 20px;
+ }
+ .leo2{
+	font-size: 15px;
+	color: white;
+ }
+ .leo2:hover{
+	color: white;
+ }
+ .leo3{
+	font-size: 25px;
+	color: rgba(255, 255, 255, 0.911);
+	text-align: left;
+	margin-left: 200px;
+	font-family: 'Staatliches';
+ }
+ .leo4{
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.805);
+	text-align: left;
+	font-family: 'Gothic A1';
+ }
+ .leo5{
+	font-family: 'Staatliches';
+	color: white;
+	font-size: 25px;
+	text-align: right;
+	margin-right: 100px;
+ }
+ .leo6{
+	color: rgba(255, 255, 255, 0.626);
+	text-align: left;
+	margin-left: 202px;
+	font-size: 20px;
+	font-family: 'Sen';
+ }
+ .leo7{
+	color: white;
+	text-align: left;
+	margin-left: 200px;
+	font-size: 15px;
+ }
+ .leo8{
+	color: white;
+	text-align: left;
+	margin-left: 200px;
+	font-size: 35px;
+	font-family: 'Staatliches';
+ }
+ .flexx{
+   display: flex;
+ }
+ .box-image{
+   height: 300px;
+   width: 600px;
+   border: none;
+   margin-left: 100px;
+   margin-top: -60px;
+ }
+ .text-box{
+    width: 1000px;
+	height: 100px;
+	border: none;
+	margin-left: 200px;
+ }
+ .leo9{
+	color: white;
+	margin-left: 200px;
+	font-size: 20px;
+	color: rgba(255, 255, 255, 0.916);
+	text-align: left;
+	font-family: 'Sen';
+ }
+ .back-back{
+	margin-left: -1300px;
+	height:40px;
+    width:80px;
+	background: none;
+	box-shadow: 0px 0px 5px 2px rgba(255, 255, 255, 0.647);
+	border: 2px solid white;
+	border-radius: 20px 20px 20px 20px;
+}
+.link-hover{
+	color: white;
+	text-decoration: none;
+}
+.link-hover:hover{
+	color: white;
+}

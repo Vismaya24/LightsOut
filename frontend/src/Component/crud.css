@@ -1,0 +1,261 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Alegreya+Sans+SC&family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Alegreya+Sans+SC&family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Alegreya+Sans+SC&family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+.boxx{
+    width: 900px;
+    height: 850px;
+    padding: 1px;
+    background: #141E30;  
+    background: -webkit-linear-gradient(to right, #243B55, #141E30);  
+    background: linear-gradient(to right, #243B55, #141E30); 
+    margin-left: 15px;
+    box-shadow: 0px 0px 10px 1px white;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins';
+}
+
+.bg{
+    background: #FFAFBD;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.boxx1{
+    height: 530px;
+    width: 900px;
+    padding: 16px;
+    margin-left: 325px;
+    
+    box-shadow: 3px 3px 10px 3px rgba(255, 255, 255, 0.647);
+    background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30);
+
+}
+.dimension-button{
+    width: 160px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 3px 3px 3px 3px;
+    font-family: 'Open Sans';
+}
+.v1{
+    color: rgb(244, 246, 247);
+    font-size: 15px;
+    font-family: 'Open Sans';
+}
+.v2{
+    color: #fbf9f1;
+    font-family: 'Julius Sans One';
+    font-size: 50px;
+    text-shadow: 20px 20px e5ecf6;
+}
+.v3{
+    color: #ffffffcc;
+    font-family: 'Open Sans';
+    font-size: 21px;
+}
+.v4{
+    color: #ffffff;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    text-align: left;
+}
+.v5{
+    color: #ffffffe4;
+    font-family: 'Open Sans';
+    font-size: 16px;
+    text-align: left;
+}
+.newbg{
+    background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.addmovie{
+    margin-right: -2700px;
+    border-radius: 5px 5px 5px 5px;
+    height: 45px;
+    width: 140px;
+    border: 2px solid white;
+    color: white;
+    background: none;
+    margin-left: 700px;
+    transition: transform .5s ease;
+}
+.addmovie:hover{
+    transform: scale(1.05);
+}
+.update{
+    background-color:  #243B55;
+}
+.delete{
+    background-color: #243B55;
+}
+.BUTTON{
+    border-radius: 70px 70px 70px 70px;
+    height: 40px;
+    width: 40px;
+    border: none;
+    background-color: #e3e8ee;
+    margin-left: 13px;
+    margin-top: 80px;
+    transition: transform .5s ease;
+}
+.BUTTON:hover{
+   
+    transform: scale(1.2);
+    
+}
+.tbox{
+    height: 40px;
+    width: 250px;
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 100px;
+    margin-right: -200px;
+    border:  2px solid  #e5ecf6;
+    padding: 5px;
+    font-family: 'Blinker';
+    color:  #e5ecf6;
+}
+.tbox:hover{
+    background-color: #e5ecf6;
+    color: #141E30;
+}
+.t1{
+    color: #ffffff;
+}
+.sboxx1{
+    margin-top: 30px;
+    height: 200px;
+    width: 400px;
+    
+}
+.moviebox{
+    height: 500px;
+    width: 1000px;
+    margin-top: -150px;
+    margin-left: -140px;
+    background-color: rgba(255, 255, 255, 0.111);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 2px 5px 3px rgba(255, 255, 255, 0.647);
+    display: inline-flex;
+    padding: 50px;
+}
+.moviebox2{
+
+    height: 500px;
+    width: 300px;
+}
+.mbox1{
+    
+    height: 550px;
+    width: 830px;
+    box-shadow: 2px 2px 5px 3px rgba(255, 255, 255, 0.647);
+    margin-top: -10px;
+   justify-content: left;
+    background-color: #0d131f;
+    padding: 20px;
+    
+}
+.nboxx1{
+    height: 550px;
+    width: 400px;
+    border: none;
+    background-color: #141E30;
+    box-shadow: #90a1b4;
+    box-shadow: 0px 0px 5px 2px rgba(255, 255, 255, 0.647);
+}
+.mbox2{
+    height: 500px;
+    width: 400px;
+    background-color: #e5ecf6;
+}
+.flex{
+    display: inline-flex;
+}
+.bgimage{
+    background-image: "url('addbg3.jpg')";
+}
+.text-center{
+    font-size: 60px;
+    font-family: 'Staatliches';
+    color: #647c9788;
+    /* margin-left: -1200px; */
+    
+}
+.inputbox{
+    width: 350px;
+    height: 30px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+border-top: 0px;
+border-left: 0px;
+border-right: 0px;
+border-radius: 3px 3px 3px 3px;
+font-family: 'Open Sans';
+
+  }
+  .ibox{
+    font-family: 'Julius Sans One';
+    line-height: 3;
+    
+  }
+
+.addbox1{
+      width: 300px;
+      height: 600px;
+      border: none;
+      text-align: left;
+      margin-left: 50px;
+}
+.addbox2{
+    width: 400px;
+    height: 600px;
+    border: none;
+    text-align: left;
+
+}
+.buttonbox{
+    border:  2px solid  #e5ecf6;
+    height: 37px;
+    width: 150px;
+    border-radius: 5px 5px 5px 5px;
+    background: none;
+    color: white;
+    transition: transform .5s ease;
+}
+.buttonbox:hover{
+    transform: scale(1.02);
+}
+.buttonboxx{
+    border:  2px solid  #e5ecf6;
+    height: 37px;
+    width: 250px;
+    border-radius: 5px 5px 5px 5px;
+    background: none;
+    color: white;
+    transition: transform .5s ease;
+}
+.buttonboxx:hover{
+    transform: scale(1.02);
+}
+.logout{
+    margin-right: -600px;
+    border-radius: 5px 5px 5px 5px;
+    height: 45px;
+    width: 140px;
+    border: 2px solid white;
+    color: white;
+    background: none;
+    margin-left: 700px;
+    transition: transform .5s ease;
+}
+.logout:hover{
+    transform: scale(1.05);
+}

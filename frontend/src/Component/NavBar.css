@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Blinker:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Audiowide&family=Blinker:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Allura&family=Audiowide&family=Blinker:wght@300&family=Julius+Sans+One&display=swap');
+.Body   
+{  
+height: 100vh;  
+margin-top: 0px;  
+background-size: cover;  
+font-family: sans-serif;  
+}  
+.Header{  
+background-color: rgb(255, 255, 255);  
+position: fixed;  
+left: 0;  
+right: 0;  
+top: 0;  
+height: 80px;  
+display: flex;  
+align-items: center;   
+}
+.box1{
+    width: 1519px;
+    height: 60px;  
+    margin-left: 0px;
+    padding: 10px;
+    background:  #0d131f; 
+    box-shadow: 2px 2px 5px 3px rgba(0, 0, 0, 0.647);
+    position: fixed;
+} 
+
+nav{
+    display: flex;
+    align-items: center;
+    height: 50px;
+}
+.NavBar
+{
+    font-family: Dubai Light;
+}
+h2{
+    color: white;
+    font-size: 25px;
+    font-family: 'Poppins';
+}
+.input2{
+    background: white;
+    width: 300px;
+    border: 2px solid #ffffff;
+    height: 30px;
+    border-radius: 20px 20px 20px 20px;
+    font-family: 'Poppins';
+    cursor: pointer;
+}
+.alignment{
+    margin-left: 950px;
+    
+}
+.logo{
+    margin-left: 540px;
+}
+.title{
+    color: #b0b8cb;
+    font-size: 30px;
+    font-family: 'Aldrich';
+}
+h6{
+    color: #bcc9e2;
+    font-size: 17px;
+    font-family: 'Julius Sans One';
+}
+.nbox1{
+     height: 35px;
+     width: 60px;
+     padding: 5px;
+     border:  2px solid  #0d131f;
+}
+.nbox1:hover{
+    border: 2px solid  #bcc9e2;
+}
+.nbox2{
+    height: 35px;
+    width: 70px;
+    padding: 5px;
+    border: 2px solid  #0d131f;
+}
+.nbox2:hover{
+    border: 2px solid  #bcc9e2;
+}
+.nbox3{
+    height: 35px;
+    width: 50px;
+    padding: 5px;
+    border: 2px solid  #0d131f;
+}
+.nbox3:hover{
+    border: 2px solid  #bcc9e2;
+}
+.nbox4{
+    height: 35px;
+    width: 100px;
+    padding: 5px;
+    border: 2px solid  #0d131f;
+}
+.nbox4:hover{
+    border: 2px solid  #bcc9e2;
+}
+.nbox5{
+    height: 35px;
+    width: 60px;
+    padding: 5px;
+    border: 2px solid  #0d131f;
+}
+.nbox5:hover{
+    border: 2px solid  #bcc9e2;
+}
+.nbox6{
+    height: 35px;
+    width: 70px;
+    padding: 5px;
+    border: 2px solid  #0d131f;
+}
+.nbox6:hover{
+    border: 2px solid  #bcc9e2;
+}
+th{
+    background-color: black;
+}
